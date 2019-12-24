@@ -23,8 +23,8 @@ sass:
 
 # Site Data
 url: http://ticoeal.com
-baseurl: gh
-title: tico-blog
+baseurl: "/tico-blogs"
+title: Tico Blog
 description: "Blogs Dedicated about Tico"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
